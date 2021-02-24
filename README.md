@@ -2,7 +2,7 @@
 SQL analysis of New York City 311 non-emergency data, 2016-2020.
 Can the city improve the time it takes to close a 311 request ticket?
 
-Database Notes: Transactional Tables
+311 Database Notes: Transactional Tables
 nyc_311_2016
 nyc_311_2017
 nyc_311_2018
